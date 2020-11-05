@@ -8,3 +8,7 @@ def func_2():
 
 def func_3():
     return "My Name is WeiHsuan !!"
+
+
+def func_4():
+    return "Damn it"
